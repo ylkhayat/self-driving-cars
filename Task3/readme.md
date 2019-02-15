@@ -8,3 +8,5 @@ For the XOR, you will need to make a combination of the previous operators to do
 
 **Submission Link:** [https://goo.gl/forms/cRZgcZrh72tvlH6Q2]()
 
+
+**TensorFlow Playground:** [http://playground.tensorflow.org]()
