@@ -11,7 +11,7 @@ Submission link: [https://forms.gle/oUs84MiVKQ4AtsvG8](https://forms.gle/oUs84Mi
 
 Submission link: [https://forms.gle/GFhyy5tavwbrV8B2A](https://forms.gle/GFhyy5tavwbrV8B2A)
 
-**Deadline** is Saturday 13th of April 2019
+**Deadline** is Wednesday 17th of April 2019
 
 -- 
 #### **Project 2**:
