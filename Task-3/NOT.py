@@ -1,9 +1,7 @@
 import pandas as pd
 
-# TODO: Set weight and bias
 weight = -1.0
 bias = 0.0
-
 
 # DON'T CHANGE ANYTHING BELOW
 # Inputs and outputs

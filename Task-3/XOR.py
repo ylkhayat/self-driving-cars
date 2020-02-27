@@ -2,23 +2,31 @@ import pandas as pd
 
 
 def and_perceptron(v1, v2):
-    # TODO: create an AND perceptron
+    weight1 = 1
+    weight2 = 4
+    bias = -5
+    return 1 if weight1 * v1 + weight2 * v2 + bias >= 0 else 0
     pass
 
 
 def or_perceptron(v1, v2):
-    # TODO: create an OR perceptron
-    pass
+    weight1 = 3
+    weight2 = 1
+    bias = -1
+    return 1 if weight1 * v1 + weight2 * v2 + bias >= 0 else 0
 
 
 def not_perceptron(v):
-    # TODO: create a NOT perceptron
-    pass
+    weight = -1.0
+    bias = 0.0
+    return 1 if weight * v + bias >= 0 else 0
 
 
 def xor_perceptron(v1, v2):
-    # TODO: create an XOR perceptron
-    pass
+    and_out = and_perceptron(v1,v2)
+    not_and_out = not_perceptron(and_out)
+    or_out = or_perceptron(v1,v2)
+    return and_perceptron(not_and_out, or_out)
 
 
 if __name__ == "__main__":
