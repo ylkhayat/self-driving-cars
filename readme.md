@@ -1,10 +1,10 @@
 <!--## Current Deadlines
 
-#### **Project 3**:
+#### **Project 1**:
 
-Submission link: [https://forms.gle/Hq5jbV7PcJ424n5e8](https://forms.gle/Hq5jbV7PcJ424n5e8)
+Submission link: [https://forms.gle/ZdUEipUyo2AFPwtY9](https://forms.gle/ZdUEipUyo2AFPwtY9)
 
-**Deadline** is Tuesday 30th of April 2019
+**Deadline** is Tuesday 4th of April 2020
 -->
 
 ### CSEN1094: Deep Learning for Self-Driving Cars
